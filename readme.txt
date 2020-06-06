@@ -7,4 +7,5 @@ I have already added my photo for test.
 8 points from the same plane
 8point-from-from-different-plane.
 Display lines corresponding to 8 points
-(new)Display lines corresponding to points other than 8 points
+Display lines corresponding to points other than 8 points
+(new)Convert the 4 recognition points from the previous step to additional input points
