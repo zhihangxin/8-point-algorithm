@@ -2,3 +2,5 @@
 autocalib.nb		Fから2つのカメラの焦点距離それぞれを推定（kruppaの式による）
 
 注）kruppaにより求められるのは2変数のみである
+
+8 points from the same plane
