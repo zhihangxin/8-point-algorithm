@@ -3,5 +3,5 @@ autocalib.nb		Fから2つのカメラの焦点距離それぞれを推定（krup
 
 注）kruppaにより求められるのは2変数のみである
 
-I have already added my photo for test.
-8 points from the same plane
+(new)I have already added my photo for test.
+(new)8 points from the same plane
