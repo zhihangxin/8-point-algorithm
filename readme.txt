@@ -9,4 +9,5 @@ I have already added my photo for test.
 Display lines corresponding to 8 points
 Display lines corresponding to points other than 8 points
 Convert the 4 recognition points from the previous step to additional input points
-(new)Use the F matrix to find the in-camera parameters
+Use the F matrix to find the in-camera parameters
+(new)I failed on this task
