@@ -8,4 +8,5 @@ I have already added my photo for test.
 8point-from-from-different-plane.
 Display lines corresponding to 8 points
 Display lines corresponding to points other than 8 points
-(new)Convert the 4 recognition points from the previous step to additional input points
+Convert the 4 recognition points from the previous step to additional input points
+(new)Use the F matrix to find the in-camera parameters
